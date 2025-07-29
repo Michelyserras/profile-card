@@ -39,7 +39,7 @@ body {
   margin-top: 12.5rem ;
   margin-inline: auto;
   background-color: #fff;
-  padding: 1.25rem;
+  padding: 1.3rem;
   border-radius: 0.5rem;
 }
 
@@ -49,6 +49,7 @@ body {
  width: 100%;
  align-items: center;
  gap: 0.2rem;
+
  margin-bottom: 1.5rem;
 }
 
@@ -56,7 +57,8 @@ body {
 .info img{
   width: 4rem;
   height: 4rem;
-  margin-bottom: 1.7rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1.6rem;
 }
 
 
