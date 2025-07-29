@@ -34,7 +34,7 @@ body {
 
 .profile-card{
   display: flex;
-  width: 21rem ;
+  width: 17rem ;
   flex-direction: column;
   margin-top: 12.5rem ;
   margin-inline: auto;
