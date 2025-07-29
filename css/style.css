@@ -34,12 +34,12 @@ body {
 
 .profile-card{
   display: flex;
-  width: 20rem ;
+  width: 23rem ;
   flex-direction: column;
   margin-top: 12.5rem ;
   margin-inline: auto;
   background-color: #fff;
-  padding: 1.3rem;
+  padding: 1.5rem;
   border-radius: 0.5rem;
 }
 
@@ -68,8 +68,8 @@ body {
 .descricao p{
   width: 100%;
   text-align: center;
-  font-size: 0.905rem; 
-  margin-bottom: 3rem;
+  font-size: 0.995rem; 
+  margin-bottom: 2.5rem;
 }
 
 .descricao h1{
