@@ -26,4 +26,4 @@ profile-card/
     └── profile.png
 ```
 
-**Desenvolvido por [Michelyserras](https://www.greatfrontend.com/projects/u/Michelyserras) - Desafio [GreatFrontEnd](https://www.greatfrontend.com/projects/challenges/profile-card)**
+**Desenvolvido por [Michelyserras](https://www.greatfrontend.com/michelySerras) - Desafio [GreatFrontEnd](https://www.greatfrontend.com/projects/challenges/profile-card)**
