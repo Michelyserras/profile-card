@@ -56,7 +56,7 @@ body {
 .info img{
   width: 4rem;
   height: 4rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 
@@ -67,7 +67,7 @@ body {
 .descricao p{
   width: 100%;
   text-align: center;
-   font-size: 0.905rem; 
+  font-size: 0.905rem; 
   margin-bottom: 3rem;
 }
 
