@@ -10,7 +10,7 @@ Este projeto é um desafio do **[GreatFrontEnd](https://www.greatfrontend.com/pr
 - Google Fonts (Noto Sans)
 - Boxicons e Font Awesome (ícones)
 
-## Como usar
+## Como Executar
 
 1. Abra o arquivo `index.html` no navegador
 2. Ou use um servidor local como Live Server
