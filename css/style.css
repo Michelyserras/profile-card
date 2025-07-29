@@ -34,7 +34,7 @@ body {
 
 .profile-card{
   display: flex;
-  width: 17rem ;
+  width: 20rem ;
   flex-direction: column;
   margin-top: 12.5rem ;
   margin-inline: auto;
@@ -66,8 +66,8 @@ body {
 .descricao p{
   width: 100%;
   text-align: center;
-  font-size: 0.9375rem;
-  margin-bottom: 2rem;
+  /* font-size: 0.9175rem; */
+  margin-bottom: 3rem;
 }
 
 .descricao h1{
