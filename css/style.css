@@ -48,13 +48,14 @@ body {
  flex-direction: column;
  width: 100%;
  align-items: center;
+ gap: 0.2rem;
  margin-bottom: 1.5rem;
 }
 
 
 .info img{
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 4rem;
+  height: 4rem;
   margin-bottom: 1rem;
 }
 
@@ -66,7 +67,7 @@ body {
 .descricao p{
   width: 100%;
   text-align: center;
-  /* font-size: 0.9175rem; */
+   font-size: 0.905rem; 
   margin-bottom: 3rem;
 }
 
