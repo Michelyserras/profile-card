@@ -39,7 +39,7 @@ body {
   margin-top: 12.5rem ;
   margin-inline: auto;
   background-color: #fff;
-  padding: 1.5rem;
+  padding: 1rem;
   border-radius: 0.5rem;
 }
 
@@ -68,7 +68,7 @@ body {
 .descricao p{
   width: 100%;
   text-align: center;
-  font-size: 0.950rem; 
+  font-size: 0.955rem; 
   margin-bottom: 2.5rem;
 }
 
